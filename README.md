@@ -17,7 +17,7 @@
 </p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADDY-DOUBLESHOT" alt="Pratham's Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADDY-DOUBLESHOT&&theme=radical" alt="Pratham's Top Languages">
 </p>
 <br>
 
