@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Android Development Projects.
 - 🌱 I’m currently learning Advanced Competitive Programming Concepts.
-- 👯 I’m looking to collaborate on Android Development Projects & Algorithmic Problems.
+- 👯 I’m looking to collaborate on Android & MERN Development Projects 
+<!-- - & Algorithmic Problems. -->
 - 📫 How to reach me: Email - [prathams1001@gmail.com](mailto:prathams1001@gmail.com) Linkedin - [Pratham Sonawane](https://www.linkedin.com/in/pratham-sonawane/)
 
 
